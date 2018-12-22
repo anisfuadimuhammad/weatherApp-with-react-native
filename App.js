@@ -102,7 +102,7 @@ return (
         </View>
       )}  
 
-              <Text style = {[styles.foo, styles.miniText]}>weatherGrab</Text>
+              <Text style = {[styles.foo, styles.miniText]}> M.Anis.FUadi | 2015150044 </Text>
 
         </View>
       </ImageBackground>
